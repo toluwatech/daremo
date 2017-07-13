@@ -103,3 +103,5 @@ $RECYCLE.BIN/
 
 # Media Files
 media/*
+
+manage.py
